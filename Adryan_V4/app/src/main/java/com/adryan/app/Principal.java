@@ -29,7 +29,7 @@ public class Principal extends Activity {
 
     private DBAdapterConfig dbConfig;
     private Cursor cursorCfg;
-
+    //COMMIT
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
